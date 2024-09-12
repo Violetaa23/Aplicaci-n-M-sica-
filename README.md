@@ -1,2 +1,2 @@
 # Aplicaci-n-M-sica-
-Desarrollando una Interfaz de aplicación de música con Android Studio
+Desarrollando una Interfaz de una aplicación músical con Android Studio
