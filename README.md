@@ -1,2 +1,2 @@
-# Aplicaci-n-M-sica-
+# MusicApp
 Desarrollando Interfaz de una aplicación músical con Android Studio
